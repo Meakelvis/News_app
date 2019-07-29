@@ -1,5 +1,5 @@
 # News_app
->A news website utilising the News_api to get news information
+>A news website utilising the [News_api](https://newsapi.org/) to get news information
 
 ## New topics and skills learnt
 * Accessing external APIs and necessary resources
